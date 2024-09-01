@@ -31,7 +31,8 @@ Since the p-value is less than 0.05, we can conclude that there is a statistical
 The analysis shows that there is a statistically significant difference in the average view counts between videos from verified accounts and videos from unverified accounts. This suggests there might be fundamental behavioral differences between these two groups of accounts.
 
 _____
-Verfied vs un-verfied accounts
+### Verfied vs un-verfied accounts
+
 <img width="673" alt="螢幕截圖 2024-09-01 下午3 14 53" src="https://github.com/user-attachments/assets/5b17ee18-806d-4901-aad7-96177dcd2d2e">
 
 Negative Correlation between Video Views and Verification Status:
