@@ -11,6 +11,7 @@ High correlations (close to 1.0) are observed between several variables, such as
 The video_duration_sec has very low correlations with other metrics, suggesting that video duration might not significantly influence other metrics like views, likes, or comments after the transformation.
 
 ### Other variables impact on share count
+
 <img width="671" alt="螢幕截圖 2024-09-01 下午3 06 30" src="https://github.com/user-attachments/assets/f4db6bac-7f3f-44e4-8cb7-c059a4156727">
 
 This is a good model that explain about 90% of the variance. The regression results indicate that video engagement metrics, such as view count, like count, and comment count, significantly influence the number of shares a video receives. Specifically, the like count is the most critical factor, with a high coefficient (0.9418) and strong statistical significance (p < 0.001), suggesting that videos with more likes are more likely to be shared. Meanwhile, video duration and download count do not significantly affect shares.
