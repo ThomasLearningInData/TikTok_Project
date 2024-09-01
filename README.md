@@ -38,9 +38,11 @@ _____
 Negative Correlation between Video Views and Verification Status:
 
 The significant negative relationship between video_view_count and a user's verification status (coefficient = -0.2554, p-value = 0.000) suggests that unverified accounts are more likely to have higher video view counts. This may indicate that unverified users are posting content designed to attract attention (potentially clickbait), which does not necessarily reflect trustworthiness or high quality.
+
 Negative Correlation between Video Comments and Verification Status:
 
 There is a significant negative correlation between the number of video comments and verification status (coefficient = -0.1163, p-value = 0.006). This implies that accounts with more comments are not necessarily verified and may even be less likely to be verified. This could indicate the presence of negative or spam content in comments, suggesting that platforms should focus on managing the quality of comments to prevent spam or malicious activity.
+
 Positive Correlation between Video Likes and Verification Status:
 
 A significant positive correlation exists between the number of video likes and a user's verification status (coefficient = 0.1043, p-value = 0.011). This suggests that users whose videos receive more likes are more likely to be verified. Platforms could leverage this by encouraging positive user interactions like likes and comments to increase the visibility of trusted users and content.
